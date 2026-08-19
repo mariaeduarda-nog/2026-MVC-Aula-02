@@ -29,3 +29,20 @@ body {
 .form-floating > .form-control-plaintext:focus::placeholder, .form-floating > .form-control:focus::placeholder {
   text-align: start;
 }
+
+.h-150{
+  height: 150px;
+}
+
+.caixa{
+  width: 150px;
+  height: 150px;
+  background-color: blueviolet;
+  border: 3px #000f1f solid;
+  text-align: center;
+  padding-top: 70px;
+}
+
+.h-500{
+  height: 150px;
+}
